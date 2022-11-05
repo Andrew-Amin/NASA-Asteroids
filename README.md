@@ -14,12 +14,12 @@
 
 
 <p align="left" width="100%">
-  <img src="screenshot_en_1.png" width="200">
-  <img src="screenshot_en_2.png" width="200">
+  <img src="screenshot_en_1.png" width="300">
+  <img src="screenshot_en_2.png" width="300">
 </p>
 <p align="left" width="100%">
-  <img src="screenshot_ar_1.png" width="200">
-  <img src="screenshot_ar_2.png" width="200">
+  <img src="screenshot_ar_1.png" width="300">
+  <img src="screenshot_ar_2.png" width="300">
 </p>
 
 ## Getting Started
