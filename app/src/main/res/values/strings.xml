@@ -20,4 +20,5 @@
     <string name="distance_from_earth_entity">Distance from earth: %f au</string>
     <string name="close_approach_data_entity">Date: %s</string>
     <string name="absolute_magnitude_title">Absolute magnitude</string>
+    <string name="the_astronomical_unit_image">The astronomical unit explanation image</string>
 </resources>
